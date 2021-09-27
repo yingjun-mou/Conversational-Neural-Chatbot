@@ -1,4 +1,4 @@
-# Implementation of a Conversational Neural Chatbox.  
+# Implementation of a Conversational Neural Chatbot.  
 
 - A conversational chatbot using Seq2Seq encoder-decoder model with attention mechanism and greedy decoder. Trained using 53K pairs of IMDB movie lines. Achieved an avg. response length of 13 words and 39% bigram uniqueness.
 
