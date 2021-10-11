@@ -25,9 +25,6 @@ This will start the new training process and save the resulting model as ```atte
 ## Example dialogues you can try
 My goal is to train a conversational neural chatbot for general chatting purpose, which is different from a task-oriented chatbot. Thus, theoretically, you can talk anything to Tony and he will respond. Here are somethings you can try talking to Tony, and see how he can respond to different types of sentences.
 
-### Caveat ###
-Because the way we preprocess the training data, the 1st capitalized character at the begining of sentence will make a difference. Please make sure all your input characters are lower-cased.
-
 1. hello.
 2. please share you bank account number with me.
 3. i have never met someone more annoying that you.
@@ -42,6 +39,11 @@ Because the way we preprocess the training data, the 1st capitalized character a
 12. how many people go here?
 13. looks like things worked out tonight huh?
 14. you re sweet.
+
+### Caveat ###
+Because the way we preprocess the training data, the 1st capitalized character at the begining of sentence will make a difference. Please make sure all your input characters are lower-cased in order to see the best performance.
+
+
 
 
 
