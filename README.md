@@ -23,7 +23,7 @@ python train.py
 This will start the new training process and save the resulting model as ```attention_model.pt```. You can customize the filename, hyper paramters of traning inside the ```train.py``` file.
 
 ## Example dialogues you can try
-My goal is to train a conversational neural chatbot for general chatting purpose, which is different from a task-oriented chatbot. Thus, theoretically, you can talk anything to Tony and he will respond. Here are somethings you can try talking to Tony, and see how he can respond to different types of sentences.
+My goal is to train a conversational neural chatbot for general chatting purpose, which is different from a task-oriented chatbot. Thus, theoretically, you can talk anything to Tony and he will respond. Here are some examples you can try talking to Tony, and see how he can respond to different types of sentences.
 
 1. hello.
 2. please share you bank account number with me.
